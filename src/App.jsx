@@ -3,7 +3,7 @@ import React from 'react'
 export default function App() {
   return (
     <div>
-      <p>Hello World</p>
+      <p className='text'>Hello World</p>
     </div>
   )
 }
